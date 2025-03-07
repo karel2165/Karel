@@ -5,9 +5,8 @@ Welcome to my GitHub profile! I'm passionate about FiveM development and love to
 ## About Me
 
 - 💻 FiveM Developer
-- 🌱 Currently learning new technologies and improving my skills
-- 🤝 Open to collaborating on exciting projects
-- 📫 How to reach me: [Maurooo](https://discord.com/users/720601095541620757)
+- 🌱 Currently learning new Languages and improving my skills
+- 📫 How to reach me: [Karel](https://discord.com/users/720601095541620757)
 
 ## My Skills
 
